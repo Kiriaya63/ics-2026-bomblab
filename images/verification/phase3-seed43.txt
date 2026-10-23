@@ -1,0 +1,11 @@
+$ ./defuser --seed 43 --phase 3
+7 2577508912
+
+[exit code: 0]
+
+$ ./bomb --seed 43 --phase 3
+Phase 3 challenge: 0xd49ffe504bfdab7f
+Input (unsigned decimal integers):
+Phase 3 defused.
+
+[exit code: 0]

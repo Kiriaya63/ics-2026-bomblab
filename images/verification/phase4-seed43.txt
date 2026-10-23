@@ -1,0 +1,11 @@
+$ ./defuser --seed 43 --phase 4
+2441880054
+
+[exit code: 0]
+
+$ ./bomb --seed 43 --phase 4
+Phase 4 challenge: 0x006ff81b72d591ff
+Input (unsigned decimal integers):
+Phase 4 defused.
+
+[exit code: 0]

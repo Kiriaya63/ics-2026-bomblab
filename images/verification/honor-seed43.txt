@@ -1,0 +1,38 @@
+$ ./defuser --seed 43
+3804034590
+12 14 36 111 342 1040
+7 2577508912
+2441880054
+1051903224 2342
+961169435
+
+[exit code: 0]
+
+$ ./defuser --seed 43 --secret
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOPEN0 497102904 4068468427
+
+[exit code: 0]
+
+$ ./bomb --seed 43
+Phase 1 challenge: 0x9cde98852e60034b
+Input (unsigned decimal integers):
+Phase 1 defused.
+Phase 2 challenge: 0x6ec624aa85685867
+Input (unsigned decimal integers):
+Phase 2 defused.
+Phase 3 challenge: 0xd49ffe504bfdab7f
+Input (unsigned decimal integers):
+Phase 3 defused.
+Phase 4 challenge: 0x006ff81b72d591ff
+Input (unsigned decimal integers):
+Phase 4 defused.
+Phase 5 challenge: 0x18e47d0995aecbfe
+Input (unsigned decimal integers):
+Phase 5 defused.
+Phase 6 challenge: 0x523fb4dd5d162e88
+Input (unsigned decimal integers):
+Phase 6 defused.
+Congratulations! You've defused the bomb.
+Secret phase defused.
+
+[exit code: 0]

@@ -1,0 +1,4 @@
+$ make -B
+gcc -I. -std=c11 -O2 -Wall -Wextra -Wpedantic -Werror defuser_main.c defuser.c tutor/phase0_solution.c challenge.c cli.c -o defuser
+
+[exit code: 0]

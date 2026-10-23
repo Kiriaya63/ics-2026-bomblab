@@ -1,0 +1,11 @@
+$ ./defuser --seed 43 --phase 6
+961169435
+
+[exit code: 0]
+
+$ ./bomb --seed 43 --phase 6
+Phase 6 challenge: 0x523fb4dd5d162e88
+Input (unsigned decimal integers):
+Phase 6 defused.
+
+[exit code: 0]
